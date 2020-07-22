@@ -22,6 +22,8 @@ Trained three different models on the given dataset, there are RandomForest, Sup
 F-1 score = 0.86956
 Accuracy =  0.86652
 
+check out (blog)[https://medium.com/@skrnsangam/sparkify-music-on-e586d38ea06b]
+
 ## Acknowledgements 
 
 Udacity given me this great project.
